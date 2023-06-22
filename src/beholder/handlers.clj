@@ -1,3 +1,5 @@
 (ns beholder.handlers
   (:require
-   [taoensso.timbre :as log]))
+   ;; [taoensso.encore :as enc]
+   ;; [taoensso.timbre :as log]
+   [io.aviso.exception :as aviso-ex]))

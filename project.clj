@@ -21,7 +21,7 @@
    [clj-test-containers "0.7.4"]
    [ring/ring-mock "0.4.0"]
    
-   [com.taoensso/timbre "6.1.0"]]
+   [com.taoensso/timbre "6.2.0-alpha1"]]
 
   :plugins
   [[lein-environ "1.2.0"]

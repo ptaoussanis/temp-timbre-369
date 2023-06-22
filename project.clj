@@ -26,4 +26,5 @@
   :plugins
   [[lein-environ "1.2.0"]
    [lein-ring "0.12.6"]
-   [lein-eftest "0.6.0"]])
+   [lein-eftest "0.6.0"]
+   [cider/cider-nrepl "0.30.0"]])
